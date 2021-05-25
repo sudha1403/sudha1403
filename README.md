@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @sudha1403
-- 👀 I’m interested in IBM tools and AWS
+- 👀 I’m interested in Python,IBM tools, and AWS
 - 🌱 I’m currently learning AWS 
 - 💞️ I’m looking to collaborate on something interesting and fun!!
 - 📫 How to reach me by DM
